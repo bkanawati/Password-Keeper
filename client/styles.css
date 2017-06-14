@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+    background-image: url(https://i.giphy.com/Q9aBxHn9fTqKs.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 15px;
+  color: white;
+}
+
+#user-header {
+    text-align: center;
+    font-size: 30px;
+    height: 50px;
+    margin: 0;
+    font-family: monospace;
+    background-color: #222;
+    color: whitesmoke;
+}
+
+#signup-box {
+ text-align: center;
+ margin: auto;
+ color: whie;
+ width: 25%;
+ background-color: rgba(255, 246, 246, 0.08);
+}
+
+#login-box {
+ text-align: center;
+ margin: auto;
+ color: whie;
+ width: 25%;
+ background-color: rgba(255, 246, 246, 0.08);
+}
+
+.text {
+  color: white;
+}
+
+#pass-creator {
+    float: left;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 20%;
+    border: solid 1px;
+    background-color: rgba(255, 246, 246, 0.08);
+    height: 500px;
+    padding: 15px;
+}
+
+#pass-boxes {
+    width: 75%;
+    height: 500px;
+    background: rgba(0, 0, 0, 0.04);
+    padding: 15px;
+}
+
+.Label-box {
+    text-align: left;
+    padding: 15px;
+    font-size: 19px;
+
+}
+
+.Label {
+  background: transparent;
+  text-align: left;
+  padding: 15px;
+ font-size: 19px;
+  color: white;
+
+}
+
+.Text-box {
+   text-align: left;
+   border-bottom: solid;
+   text-align: left;
+   border-bottom-color: white;
+   border-bottom-style: groove;
+   background: transparent;
+   color: white;
+   border: none;
+   padding: 15px;
+   font-size: 20px;
+
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.list {
+  display: inline-block;
+}
